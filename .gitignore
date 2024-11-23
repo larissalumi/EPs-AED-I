@@ -1,7 +1,7 @@
 *.exe
 teste.c
 SudokuInteiro/
-
+*vscode
 
 temporario (em progresso):
 1098.c
