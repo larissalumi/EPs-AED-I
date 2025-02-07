@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Larissa Lumi/OneDrive/Área de Trabalho/Programar/AED I/Judge-Beecrowd/1152-Estradas-Escuras",
-      "program": "c:/Users/Larissa Lumi/OneDrive/Área de Trabalho/Programar/AED I/Judge-Beecrowd/1152-Estradas-Escuras/build/Debug/outDebug",
+      "cwd": "c:/Users/Larissa Lumi/OneDrive/Área de Trabalho/Programar/AED I/Judge-Beecrowd/1212-Aritmética-Primária",
+      "program": "c:/Users/Larissa Lumi/OneDrive/Área de Trabalho/Programar/AED I/Judge-Beecrowd/1212-Aritmética-Primária/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
