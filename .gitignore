@@ -1,12 +1,13 @@
 *.exe
 teste.c
-SudokuInteiro/
 *vscode
 
 temporario (em progresso):
-1098.c
 
-deu errado:
+
+não fiz:
 1123-Desvio-de-Rota
 1152-Estradas-Escuras
 1062-Trilhos
+1610-Dudu-Faz-Serviço
+1098.c
