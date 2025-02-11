@@ -10,7 +10,7 @@ int p[200100];
 
 int pai(int i) {
     if(i != p[i])
-        p[i] = pai(p[i]);  // Compressão de caminho
+        p[i] = pai(p[i]); 
     return p[i];
 }
 
