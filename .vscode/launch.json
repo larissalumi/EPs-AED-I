@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Larissa Lumi/OneDrive/Área de Trabalho/Programar/AED I/Judge-Beecrowd/1610-Dudu-Faz-Serviço",
-      "program": "c:/Users/Larissa Lumi/OneDrive/Área de Trabalho/Programar/AED I/Judge-Beecrowd/1610-Dudu-Faz-Serviço/build/Debug/outDebug",
+      "cwd": "c:/Users/Larissa Lumi/OneDrive/Área de Trabalho/Programar/AED I/Judge-Beecrowd/1123-Desvio-de-Rota",
+      "program": "c:/Users/Larissa Lumi/OneDrive/Área de Trabalho/Programar/AED I/Judge-Beecrowd/1123-Desvio-de-Rota/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
